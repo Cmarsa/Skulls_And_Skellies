@@ -6,7 +6,7 @@ public class ArmsRotation : MonoBehaviour
 {
     public PlayerController playerController;
 
-    public float rotationSmoothness = 5f; // Adjust the smoothness factor as needed
+    public float rotationSmoothness = 100f; // Adjust the smoothness factor as needed
 
     // Start is called before the first frame update
     void Start()
